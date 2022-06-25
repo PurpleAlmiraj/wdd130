@@ -111,11 +111,9 @@ nav {
     justify-content: space-around;
     color: #ADD8E6;
     background-color: #2C5545;
-    height: 30px;
+    height: 50px;
     width: 1500px;
-    padding: -50px;
-    margin-bottom: -200px;
-    margin-top: -80px;
+    margin-top: 10px;
 }
 nav a:hover {
     background-color: #D0D0D0;
